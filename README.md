@@ -1,4 +1,5 @@
 # Tokyo-Olympics-Econometric-Analysis
+![](https://pixelz.cc/wp-content/uploads/2017/12/tokyo-2020-summer-olympics-logo-uhd-4k-wallpaper.jpg)
 This study employs econometric techniques to examine the linear relationship between socioeconomic factors and Olympic achievement at the Tokyo 2020 Games. Data are rigorously processed to ensure data quality and filtered by countries in the Medal count. Statistical tests are conducted to assess the significance of individual variables, and transformations are applied to address potential issues such as non-normality or heteroscedasticity. A variety of linear regression models are estimated to determine the most influential socioeconomic determinants of Olympic success. This research is part of a university project and is based on an extensive review of the existing literature, the references of which are detailed in the bibliography section. The analysis is facilitated by a bilingual coding environment, combining Spanish and English
 
 data: https://drive.google.com/drive/folders/1sWUgruX0IRROvL30kgXqaKxaeV2jO-yw?usp=sharing
